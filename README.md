@@ -1,7 +1,7 @@
 
-# Chitti the Robot: PDF Text Analysis with Streamlit
+# PDF Text Analysis with Streamlit and Langchain
 
-Chitti the Robot is a simple Streamlit app that allows you to upload PDF files and ask questions related to the content of those PDFs. The app uses various natural language processing techniques to process and analyze the text in the uploaded PDFs and provide answers to user questions.
+This is a simple Streamlit app that allows you to upload PDF files and ask questions related to the content of those PDFs. The app uses various natural language processing techniques to process and analyze the text in the uploaded PDFs and provide answers to user questions.
 
 ## Table of Contents
 
